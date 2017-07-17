@@ -250,8 +250,8 @@
       .css('z-index',options.zIndex)
       .css('top',0)
       .css('left',0)
-      .css('min-width','100%')
-      .css('min-height','100%');
+      .css('width','100%')
+      .css('height','100%');
 
     // add the image to the video
     // if suuports video
